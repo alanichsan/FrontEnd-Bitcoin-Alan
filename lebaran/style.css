@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+* {
+    font-family: 'Dancing Script', cursive;
+}
+
+body {
+  background: #00cec9;
+  font-family: "Roboto", sans-serif;
+}
+
+.container{
+    margin-top: 20vh;
+}
+.ketupat {
+  position: relative;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  background: #b9e937;
+  box-shadow: 100px 0 0 #57d131, 100px 100px 0 #b9e937, 0px 100px 0 #57d131;
+  transform: rotate(45deg);
+}
+.txt{
+    text-align: center;
+    margin-top: 200px;
+}
